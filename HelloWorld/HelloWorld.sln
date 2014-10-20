@@ -11,6 +11,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HelloWorld", "HelloWorld\He
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		HelloWorld\HelloWorld\HelloWorld.projitems*{a81c40b2-5e74-4c44-8557-1f785022ec57}*SharedItemsImports = 4
 		HelloWorld\HelloWorld\HelloWorld.projitems*{00c022e6-3aaa-40c0-8c63-d0baa8841d14}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
